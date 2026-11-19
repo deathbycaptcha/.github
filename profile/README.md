@@ -19,9 +19,9 @@ DeathByCaptcha.com offers a powerful **[captcha solver](https://deathbycaptcha.c
 
 It's designed to handle a wide range of challenges, including [reCAPTCHA](https://deathbycaptcha.com/api/newtokenrecaptcha), image-based puzzles, and more. Whether you're building scripts, scraping data, running automated tests, or scaling web-based operations, our [captcha solver API](https://deathbycaptcha.com/api) delivers fast, accurate, and reliable results.
 
-- ✅ **21+ CAPTCHA types** supported — image, reCAPTCHA v2/v3, Turnstile, Amazon WAF, GeeTest, hCaptcha, and more
+- ✅ **19 CAPTCHA types** supported — image, reCAPTCHA v2/v3, Turnstile, Amazon WAF, GeeTest, and more
 - ✅ **HTTP & Socket API** — choose the transport that fits your use case
-- ✅ **Official client libraries** in 9+ languages — drop-in, production-ready
+- ✅ **Official client libraries** in 9 languages — drop-in, production-ready
 - ✅ **24/7 human & automated solving** — sub-15-second average response time
 - ✅ **Token-based auth** for CI/CD and headless environments
 - ✅ **99.9% uptime SLA** and battle-tested in high-volume production workloads
@@ -32,12 +32,12 @@ It's designed to handle a wide range of challenges, including [reCAPTCHA](https:
 
 | Language | Repository | Install | Docs |
 |:---:|---|---|---|
-| <img src="https://skillicons.dev/icons?i=python" width="42"/><br>**Python** | [deathbycaptcha-api-client-python](https://github.com/deathbycaptcha/deathbycaptcha-api-client-python) | `pip install deathbycaptcha` | [README](https://github.com/deathbycaptcha/deathbycaptcha-api-client-python#readme) |
+| <img src="https://skillicons.dev/icons?i=python" width="42"/><br>**Python** | [deathbycaptcha-api-client-python](https://github.com/deathbycaptcha/deathbycaptcha-api-client-python) | `pip install deathbycaptcha-official` | [README](https://github.com/deathbycaptcha/deathbycaptcha-api-client-python#readme) |
 | <img src="https://skillicons.dev/icons?i=go" width="42"/><br>**Go** | [deathbycaptcha-api-client-go](https://github.com/deathbycaptcha/deathbycaptcha-api-client-go) | `go get github.com/deathbycaptcha/deathbycaptcha-api-client-go/v4` | [README](https://github.com/deathbycaptcha/deathbycaptcha-api-client-go#readme) |
-| <img src="https://skillicons.dev/icons?i=nodejs" width="42"/><br>**Node.js** | [deathbycaptcha-api-client-nodejs](https://github.com/deathbycaptcha/deathbycaptcha-api-client-nodejs) | `npm install deathbycaptcha` | [README](https://github.com/deathbycaptcha/deathbycaptcha-api-client-nodejs#readme) |
-| <img src="https://skillicons.dev/icons?i=php" width="42"/><br>**PHP** | [deathbycaptcha-api-client-php](https://github.com/deathbycaptcha/deathbycaptcha-api-client-php) | `composer require deathbycaptcha/deathbycaptcha` | [README](https://github.com/deathbycaptcha/deathbycaptcha-api-client-php#readme) |
-| <img src="https://skillicons.dev/icons?i=java" width="42"/><br>**Java** | [deathbycaptcha-api-client-java](https://github.com/deathbycaptcha/deathbycaptcha-api-client-java) | Maven | [README](https://github.com/deathbycaptcha/deathbycaptcha-api-client-java#readme) |
-| <img src="https://skillicons.dev/icons?i=dotnet" width="42"/><br>**.Net (C#, VB)** | [deathbycaptcha-api-client-dotnet](https://github.com/deathbycaptcha/deathbycaptcha-api-client-dotnet) | NuGet package | [README](https://github.com/deathbycaptcha/deathbycaptcha-api-client-dotnet#readme) |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="42"/><br>**Node.js** | [deathbycaptcha-api-client-nodejs](https://github.com/deathbycaptcha/deathbycaptcha-api-client-nodejs) | `npm install deathbycaptcha-lib` | [README](https://github.com/deathbycaptcha/deathbycaptcha-api-client-nodejs#readme) |
+| <img src="https://skillicons.dev/icons?i=php" width="42"/><br>**PHP** | [deathbycaptcha-api-client-php](https://github.com/deathbycaptcha/deathbycaptcha-api-client-php) | `composer require deathbycaptcha/deathbycaptcha-api-php` | [README](https://github.com/deathbycaptcha/deathbycaptcha-api-client-php#readme) |
+| <img src="https://skillicons.dev/icons?i=java" width="42"/><br>**Java** | [deathbycaptcha-api-client-java](https://github.com/deathbycaptcha/deathbycaptcha-api-client-java) | `io.github.deathbycaptcha:deathbycaptcha-java-library` | [README](https://github.com/deathbycaptcha/deathbycaptcha-api-client-java#readme) |
+| <img src="https://skillicons.dev/icons?i=dotnet" width="42"/><br>**.Net (C#, VB)** | [deathbycaptcha-api-client-dotnet](https://github.com/deathbycaptcha/deathbycaptcha-api-client-dotnet) | `dotnet add package DeathByCaptcha` | [README](https://github.com/deathbycaptcha/deathbycaptcha-api-client-dotnet#readme) |
 | <img src="https://skillicons.dev/icons?i=cpp" width="42"/><br>**C++** | [deathbycaptcha-api-client-cpp](https://github.com/deathbycaptcha/deathbycaptcha-api-client-cpp) | CMake | [README](https://github.com/deathbycaptcha/deathbycaptcha-api-client-cpp#readme) |
 | <img src="https://skillicons.dev/icons?i=c" width="42"/><br>**C (C11)** | [deathbycaptcha-api-client-c11](https://github.com/deathbycaptcha/deathbycaptcha-api-client-c11) | CMake | [README](https://github.com/deathbycaptcha/deathbycaptcha-api-client-c11#readme) |
 | <img src="https://skillicons.dev/icons?i=perl" width="42"/><br>**Perl** | [deathbycaptcha-api-client-perl](https://github.com/deathbycaptcha/deathbycaptcha-api-client-perl) | `cpanm --installdeps .` | [README](https://github.com/deathbycaptcha/deathbycaptcha-api-client-perl#readme) |
@@ -81,7 +81,7 @@ DeathByCaptcha's architecture is engineered for **high-performance captcha solvi
 
 **The Three-Step Process:**
 
-1. **Submit Your CAPTCHA** — Send image bytes, reCAPTCHA sitekey + pageurl, hCaptcha credentials, or any supported challenge type via HTTP or persistent Socket connection
+1. **Submit Your CAPTCHA** — Send image bytes, reCAPTCHA sitekey + pageurl, Turnstile sitekey, or any supported challenge type via HTTP or persistent Socket connection
 2. **Intelligent Processing** — Our **solving engine** processes requests through a hybrid network of 24/7 human solvers and AI-powered automation, delivering results in **sub-15 seconds average**
 3. **Receive Your Token** — Get the CAPTCHA solution (token, text, or coordinates) and inject directly into your **automation workflow**
 
@@ -96,7 +96,7 @@ DeathByCaptcha's architecture is engineered for **high-performance captcha solvi
 - 🔄 **Automatic polling** — client libraries handle retry logic
 - 🛡️ **Enterprise-grade reliability** — 99.9% uptime SLA
 - 🌍 **Global solving network** — distributed infrastructure for optimal performance
-- 💪 **21+ CAPTCHA type support** — single API for all challenge types
+- 💪 **19 CAPTCHA types** — single API for all challenge types
 
 ---
 
